@@ -1,3 +1,7 @@
+src/app/config/master.key
+src/app/db/development.sqlite3
+src/app/log/
+src/app/storage/
 *.gem
 *.rbc
 /.config
@@ -8,7 +12,7 @@
 /spec/examples.txt
 /src/app/test/tmp/
 /test/version_tmp/
-/tmp/
+/src/app/tmp/
 
 # Used by dotenv library to load environment variables.
 # .env
