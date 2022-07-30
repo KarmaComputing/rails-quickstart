@@ -1,13 +1,3 @@
-# How to go to production 🚀
+# Rails Quickstart for container hosting
 
-1. Edit your code
-2. Commit your code
-3. Push your code `git push origin main`
-
-Your app is deployed.
-
-# How to run locally 💻
-
-```
-docker-compose up
-```
+Ref https://github.com/KarmaComputing/container-hosting
